@@ -6,7 +6,7 @@
 - 📫 Email me at arielsclaudino@gmail.com 
 - Social:
 - - Linkedin: https://www.linkedin.com/in/ariel-s-claudino-b21948137/ 
-- - Instagram: @asclaudino
+- - Instagram: @asclaudino_
 
 <!---
 asclaudino/asclaudino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
