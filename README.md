@@ -2,7 +2,7 @@
 - 👀 I’m a FullStack developer interested mostly in Web development, Mobile development, as well as UI and UX.
 - 🌱 I’m currently studying Computer Engineering @ ITA (http://www.ita.br/), Brazil. 
 - 🌱 Besides University, I am trying to learn new frameworks to expand my knowledge on the state of the art of web/mobile programming.  
-- 🏢 Currently in an internship as a FullStack Dev @ Bahia Asset Management , Rio de Janeiro, Brazil.
+- 🏢 Last internship: FullStack Web Dev @ Bahia Asset Management , Rio de Janeiro, Brazil.
 - 📫 Email me at arielsclaudino@gmail.com 
 - Social:
 - - Linkedin: https://www.linkedin.com/in/ariel-s-claudino-b21948137/ 
